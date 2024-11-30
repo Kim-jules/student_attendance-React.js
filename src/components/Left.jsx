@@ -54,7 +54,7 @@ const Left = () => {
   console.log(isVisible);
   return (
     <div className="">
-      <div className="heading text-2xl font-semibold font-jetBrains mb-10 underline">
+      <div className="w-[79.5%] ml-[276px] heading text-2xl font-semibold font-jetBrains mb-10 underline">
         Dashboard
       </div>
       <div className="flex space-x-5 flex-col md:flex-row">

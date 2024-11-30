@@ -64,7 +64,7 @@ const Dashboard = () => {
 
   }, [navigate, token]);
   return (
-    <div className="w-[79.5%] ml-[276px] flex flex-col justify-end align-bottom">
+    <div className="flex flex-col justify-end align-bottom">
       <div className="body">
       <NavBar />
       <div className="pt-24 grid gap-6">
